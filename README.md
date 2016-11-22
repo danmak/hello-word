@@ -1,4 +1,4 @@
 # hello-word
 my first project
 
-my sconf change
+my scond change
